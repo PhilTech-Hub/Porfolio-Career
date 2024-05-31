@@ -661,6 +661,13 @@ main {
 .clients-item {
   min-width: 50%;
   scroll-snap-align: start;
+  border-radius: 20px;
+}
+
+.clients-item-one {
+  min-width: 50%;
+  scroll-snap-align: start;
+  border-radius: 20px;
 }
 
 .clients-item img {
@@ -670,6 +677,7 @@ main {
 }
 
 .clients-item img:hover { filter: grayscale(0); }
+
 
 
 

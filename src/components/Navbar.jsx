@@ -23,6 +23,12 @@ const Navbar = () => {
       </li>
 
       <li className="navbar-item">
+        <NavLink to="/certificates" className="navbar-link" data-nav-link>
+          Certificates
+        </NavLink>
+      </li>
+
+      <li className="navbar-item">
         <NavLink to="/blogs" className="navbar-link" data-nav-link>
           Blog
         </NavLink>

@@ -1,20 +1,20 @@
 [
     {
       "id": 1,
-      "title": "Ecommerce Admin Dashboard",
-      "category": "MEARN Stack Web development",
+      "title": "Finance",
+      "category": "Web development",
       "image": "images/project-1.jpg"
     },
     {
       "id": 2,
-      "title": "CRM Native App",
-      "category": "Mobile/Native App development",
+      "title": "Orizon",
+      "category": "Web development",
       "image": "images/project-2.png"
     },
     {
       "id": 3,
       "title": "Fundo",
-      "category": "Web Design and Development",
+      "category": "Web design",
       "image": "images/project-3.jpg"
     },
     {

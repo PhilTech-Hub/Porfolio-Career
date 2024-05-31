@@ -1,4 +1,5 @@
 import { GiCalendar, GiClawSlashes, GiMailbox, GiMayanPyramid, GiPhone } from "react-icons/gi";
+import { FaLinkedin } from "react-icons/fa";
 
 const Aside = () => {
   return (
@@ -13,7 +14,7 @@ const Aside = () => {
           </figure>
 
           <div className="info-content">
-            <h1 className="name" title="Richard hanrick">
+            <h1 className="name" title="Philemon Victor">
               Philemon Victor
             </h1>
 
@@ -62,15 +63,15 @@ const Aside = () => {
 
             <li className="contact-item">
               <div className="icon-box">
-                <GiCalendar/>
+                <FaLinkedin/>
                
               </div>
 
-              {/* <div className="contact-info">
-                <p className="contact-title">Birthday</p>
+              <div className="contact-info">
+                <p className="contact-title">LinkedIn</p>
 
-                <time dateTime="1982-06-23">June 23, 1982</time>
-              </div> */}
+                <a href="https://www.linkedin.com/in/engineer-philemon-v-odera/" className="contact-link" >victorphilemon001@gmail.com</a>
+              </div>
             </li>
 
             <li className="contact-item">
